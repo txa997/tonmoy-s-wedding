@@ -1,5 +1,5 @@
 const year = (new Date().getFullYear()) ;
-const weddingDate = new Date(2024, 5, 19).getTime();
+const weddingDate = new Date(2024, 12, 30).getTime();
 
 // countdown
 let timer = setInterval(function() {
